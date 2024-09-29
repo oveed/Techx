@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495376558683",
+    "project_id": "techx-ai-app",
+    "storage_bucket": "techx-ai-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495376558683:android:d315b64171c2eca34ded7e",
+        "android_client_info": {
+          "package_name": "com.tech.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNW_SqEFN2beEtxe3ncVj-t1V1m_A72GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
